@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2DC25F58-2BE9-4F5F-972C-AC6F9A9EDFC2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TrueFalseGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D1C50938-A7E9-44F9-929C-5CEA067D47FE</key>
+		<string>ssh://github.com/longtajl/TrueOrFalse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TrueFalseGame.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D1C50938-A7E9-44F9-929C-5CEA067D47FE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/longtajl/TrueOrFalse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D1C50938-A7E9-44F9-929C-5CEA067D47FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D1C50938-A7E9-44F9-929C-5CEA067D47FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TrueOrFalse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
